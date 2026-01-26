@@ -34,7 +34,7 @@
 ```typescript
 const parth = {
     location: "Bhubaneswar, India 🇮🇳",
-    university: "Siksha O Anusandhan University (NAAC A++)",
+    university: "Siksha O Anusandhan University",
     role: "Full-Stack Developer & CS Student",
     graduation: "2022 – 2026",
     code: ["C++", "Java", "Python", "JavaScript", "SQL", "HTML/CSS"],
