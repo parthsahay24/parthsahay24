@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Parth+Sahay;Full+Stack+Developer;Hackathon+Winner;Building+Real-World+Tech" />
+</p>
 <h1 align="center">Hi 👋, I'm Parth Sahay</h1>
 <h3 align="center">Full Stack Developer | CSE Final Year Undergraduate | Hackathon Winner</h3>
 
@@ -11,7 +14,7 @@
 
 - 💬 Ask me about **Web development, Python, C++, secure authentication, APIs, and hackathons**
 
-- 📫 How to reach me **parthsahay24@gmail.com**
+- 📫 reach me at **parthsahay24@gmail.com**
 
 - 📄 Know about my projects [https://drive.google.com/file/d/1Spu-zLnLEBd7E84ygnvE6zeNLlCXpkCJ/view?usp=drive_link](https://drive.google.com/file/d/1Spu-zLnLEBd7E84ygnvE6zeNLlCXpkCJ/view?usp=drive_link)
 
