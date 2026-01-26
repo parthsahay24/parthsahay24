@@ -1,35 +1,270 @@
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Parth+Sahay;Full+Stack+Developer;Hackathon+Winner;Building+Real-World+Tech" />
-</p>
-<h1 align="center">Hi 👋, I'm Parth Sahay</h1>
-<h3 align="center">Full Stack Developer | CSE Final Year Undergraduate | Hackathon Winner</h3>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:12002b,50:2b1055,100:000428&height=260&section=header&text=Parth%20Sahay&fontSize=46&fontColor=bb86fc&animation=twinkling&desc=Code.%20Build.%20Win.%20Repeat.&descSize=20" />
 
-- 🔭 I’m currently working on **building robust full-stack web applications using React and Node.js**
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=360&lines=Full+Stack+Developer;Hackathon+Winner;Building+Real-World+Tech" />
 
-- 🌱 I’m currently learning **cloud deployment (AWS), backend scalability, and applied machine learning**
-
-- 👯 I’m looking to collaborate on **full-stack, AI-powered, and real-world problem-solving projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/parthsahay24](https://github.com/parthsahay24)
-
-- 💬 Ask me about **Web development, Python, C++, secure authentication, APIs, and hackathons**
-
-- 📫 reach me at **parthsahay24@gmail.com**
-
-- 📄 Know about my projects [https://drive.google.com/file/d/1Spu-zLnLEBd7E84ygnvE6zeNLlCXpkCJ/view?usp=drive_link](https://drive.google.com/file/d/1Spu-zLnLEBd7E84ygnvE6zeNLlCXpkCJ/view?usp=drive_link)
-
-- ⚡ Fun fact **I balance code, hackathons, and music — guitar & piano 🎸🎹**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/parth-sahay-405908286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth-sahay-405908286" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthsahay24&show_icons=true&locale=en&layout=compact" alt="parthsahay24" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthsahay24&show_icons=true&locale=en" alt="parthsahay24" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthsahay24&" alt="parthsahay24" /></p>
+
+### 💻 Full-Stack Developer | 🚀 CSE 2022-26  | 🌟 Open Source Enthusiast
+
+<p>
+  <a href="https://github.com/parthsahay"><img src="https://img.shields.io/badge/GitHub-parthsahay-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/parthsahay"><img src="https://img.shields.io/badge/LinkedIn-parthsahay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:parthsahay24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+
+
+</div>
+
+```ascii
+ ~macOS ? Guitar.play() && Code.debug() 
+```
+
+<br>
+
+## 🚀 About Me
+
+```typescript
+const parth = {
+    location: "Bhubaneswar, India 🇮🇳",
+    university: "Siksha O Anusandhan University (NAAC A++)",
+    role: "Full-Stack Developer & CS Student",
+    graduation: "2022 – 2026",
+    code: ["C++", "Java", "Python", "JavaScript", "SQL", "HTML/CSS"],
+    askMeAbout: ["web dev", "tech", "system design", "music"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Flutter"],
+            css: ["Tailwind", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express"],
+            python: ["Flask"],
+            database: ["MySQL","MongoDB"]
+        },
+        devOps: ["Git", "AWS", "Linux"],
+        tools: ["VS Code", "IntelliJ", "Eclipse", "Premiere Pro", "After Effects"]
+    },
+    libraries: ["pandas", "NumPy", "Matplotlib", "pycryptodome"],
+    currentFocus: "Building innovative web applications & exploring AI/ML",
+    funFact: "I can type at 90 WPM while debugging! 🎹⌨️",
+    hobbies: ["Guitar 🎸", "Piano 🎹", "Sports 🏏", "Music Production 🎵"]
+};
+```
+
+<br>
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Languages
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parthsahay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthsahay&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthsahay&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+<br>
+
+## 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">♻️ LitterLift</h3>
+      <div align="center">
+        <a href="https://github.com/parthsahay/litterlift" target="_blank">
+          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+        </a>
+        <p><strong>🏆 Top 04 Winner - Inter Smart India Hackathon</strong></p>
+        <p>🔹 Smart waste tracking & reporting system</p>
+        <p>🔹 Real-time geo-tagged waste reporting</p>
+        <p>🔹 Secure JWT authentication & Stripe payments</p>
+        <p>🔹 AI chatbot integration for user support</p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📚 Stutor</h3>
+      <div align="center">
+        <a href="https://github.com/parthsahay/stutor" target="_blank">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+          <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+        </a>
+        <p><strong>Peer-to-peer learning platform</strong></p>
+        <p>🔹 Connect students with peer tutors</p>
+        <p>🔹 Secure dual login system</p>
+        <p>🔹 Dynamic tutor showcase & resources</p>
+        <p>🔹 Interactive learning modules</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔐 Triple DES Encryption</h3>
+      <div align="center">
+        <a href="https://github.com/parthsahay/triple-des-encryption" target="_blank">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/Cryptography-FF6F00?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white" alt="Crypto"/>
+        </a>
+        <p><strong>Secure message encryption system</strong></p>
+        <p>🔹 Triple DES symmetric encryption</p>
+        <p>🔹 Multi-layered security implementation</p>
+        <p>🔹 Cryptographic key management</p>
+        <p>🔹 Secure data transmission protocols</p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💡 Horizon 2K25 Projects</h3>
+      <div align="center">
+        <a href="https://github.com/parthsahay" target="_blank">
+          <img src="https://img.shields.io/badge/Innovation-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Innovation"/>
+        </a>
+        <p><strong>🏆 Winner - Ideathon | 🥈 1st Runner-Up - Hackathon</strong></p>
+        <p>🔹 Innovative tech-driven solutions</p>
+        <p>🔹 Practical problem-solving approach</p>
+        <p>🔹 Awarded for creativity & impact</p>
+        <p>🔹 Full-stack development showcase</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthsahay&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+<br>
+
+## 🏆 Achievements & Highlights
+
+<div align="center">
+
+```diff
++ 🥇 Winner - Horizon 2K25 Ideathon (Innovative Tech Solution)
++ 🥈 1st Runner-Up - Horizon 2K25 Hackathon (Practical Tech Solution)
++ 🏆 Top 04 Winner - Inter Smart India Hackathon (LitterLift Project)
++ 🎵 Core Member & Music Lead - SOA Radio Club & Drama Club
++ ⚡ 90 WPM Typing Speed
++ 🎸 Proficient Guitarist & Pianist
++ 🌱 Currently exploring advanced cryptography & system design
++ 💼 Building real-world applications solving actual problems
++ 🤝 Open to collaborations on interesting projects
+```
+
+</div>
+
+<br>
+
+## 🎯 Skills Beyond Code
+
+<div align="center">
+
+### 🎵 Musical Expertise
+![Guitar](https://img.shields.io/badge/Guitar-🎸-ff69b4?style=for-the-badge)
+![Piano](https://img.shields.io/badge/Piano-🎹-9cf?style=for-the-badge)
+
+### 🏃 Sports & Activities
+![Cricket](https://img.shields.io/badge/Cricket-🏏-green?style=for-the-badge)
+![Volleyball](https://img.shields.io/badge/Volleyball-🏐-orange?style=for-the-badge)
+![Badminton](https://img.shields.io/badge/Badminton-🏸-red?style=for-the-badge)
+![Kabaddi](https://img.shields.io/badge/Kabaddi-💪-blue?style=for-the-badge)
+
+### 💼 Leadership & Management
+![Event Management](https://img.shields.io/badge/Event%20Management-⭐-yellow?style=for-the-badge)
+![Team Work](https://img.shields.io/badge/Team%20Work-🤝-brightgreen?style=for-the-badge)
+![Time Management](https://img.shields.io/badge/Time%20Management-⏰-blueviolet?style=for-the-badge)
+
+</div>
+
+<br>
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<br>
+
+## 🌐 Languages
+
+<div align="center">
+
+![English](https://img.shields.io/badge/English-Fluent-4285F4?style=for-the-badge)
+![Hindi](https://img.shields.io/badge/Hindi-Native-FF9933?style=for-the-badge)
+![Japanese](https://img.shields.io/badge/Japanese-Learning-BC002D?style=for-the-badge)
+
+</div>
+
+<br>
+
+## 📫 Let's Connect & Collaborate!
+
+<div align="center">
+
+I'm always interested in hearing about new projects and opportunities!
+
+**~r-D000 ? Code && Coffee** ☕
+
+[![Email](https://img.shields.io/badge/Email-parthsahay24@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthsahay24@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthsahay)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parthsahay)
+
+<br>
+
+### 🌟 "First, solve the problem. Then, write the code." – John Johnson
+
+### 🎵 "Music is the language of code in harmony." – Parth Sahay
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=parthsahay&color=blueviolet&style=for-the-badge)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
