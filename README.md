@@ -100,9 +100,7 @@ const parth = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthsahay24&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthsahay24&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+
 
 <br>
 
@@ -114,8 +112,8 @@ const parth = {
       <h3 align="center">♻️ LitterLift</h3>
       <div align="center">
         <a href="https://github.com/parthsahay24/litterlift" target="_blank">
-          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+          <img src="https://img.shields.io/badge/EJS-8BC500?style=for-the-badge&logo=ejs&logoColor=white" alt="EJS"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
         </a>
         <p><strong>🏆 Top 04 Winner - Inter Smart India Hackathon</strong></p>
         <p>🔹 Smart waste tracking & reporting system</p>
@@ -246,7 +244,7 @@ const parth = {
 
 I'm always interested in hearing about new projects and opportunities!
 
-**~r-D000 ? Code && Coffee** ☕
+**~macOS ? Guitar.play() && Code.debug()☕
 
 [![Email](https://img.shields.io/badge/Email-parthsahay2424@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthsahay2424@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthsahay24)
