@@ -14,9 +14,9 @@
 ### 💻 Full-Stack Developer | 🚀 CSE 2022-26  | 🌟 Open Source Enthusiast
 
 <p>
-  <a href="https://github.com/parthsahay"><img src="https://img.shields.io/badge/GitHub-parthsahay-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/parthsahay"><img src="https://img.shields.io/badge/LinkedIn-parthsahay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:parthsahay24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/parthsahay24"><img src="https://img.shields.io/badge/GitHub-parthsahay24-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/parth-sahay-405908286"><img src="https://img.shields.io/badge/LinkedIn-parth--sahay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:parthsahay2424@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 
@@ -96,12 +96,12 @@ const parth = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parthsahay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthsahay&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parthsahay24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthsahay24&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthsahay&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthsahay24&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 <br>
@@ -113,7 +113,7 @@ const parth = {
     <td width="50%" valign="top">
       <h3 align="center">♻️ LitterLift</h3>
       <div align="center">
-        <a href="https://github.com/parthsahay/litterlift" target="_blank">
+        <a href="https://github.com/parthsahay24/litterlift" target="_blank">
           <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
         </a>
@@ -127,7 +127,7 @@ const parth = {
     <td width="50%" valign="top">
       <h3 align="center">📚 Stutor</h3>
       <div align="center">
-        <a href="https://github.com/parthsahay/stutor" target="_blank">
+        <a href="https://github.com/parthsahay24/stutor" target="_blank">
           <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
           <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
         </a>
@@ -143,7 +143,7 @@ const parth = {
     <td width="50%" valign="top">
       <h3 align="center">🔐 Triple DES Encryption</h3>
       <div align="center">
-        <a href="https://github.com/parthsahay/triple-des-encryption" target="_blank">
+        <a href="https://github.com/parthsahay24/triple-des-encryption" target="_blank">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
           <img src="https://img.shields.io/badge/Cryptography-FF6F00?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white" alt="Crypto"/>
         </a>
@@ -157,7 +157,7 @@ const parth = {
     <td width="50%" valign="top">
       <h3 align="center">💡 Horizon 2K25 Projects</h3>
       <div align="center">
-        <a href="https://github.com/parthsahay" target="_blank">
+        <a href="https://github.com/parthsahay24" target="_blank">
           <img src="https://img.shields.io/badge/Innovation-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Innovation"/>
         </a>
         <p><strong>🏆 Winner - Ideathon | 🥈 1st Runner-Up - Hackathon</strong></p>
@@ -175,7 +175,7 @@ const parth = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthsahay&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthsahay24&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 <br>
@@ -191,9 +191,6 @@ const parth = {
 + 🎵 Core Member & Music Lead - SOA Radio Club & Drama Club
 + ⚡ 90 WPM Typing Speed
 + 🎸 Proficient Guitarist & Pianist
-+ 🌱 Currently exploring advanced cryptography & system design
-+ 💼 Building real-world applications solving actual problems
-+ 🤝 Open to collaborations on interesting projects
 ```
 
 </div>
@@ -251,9 +248,9 @@ I'm always interested in hearing about new projects and opportunities!
 
 **~r-D000 ? Code && Coffee** ☕
 
-[![Email](https://img.shields.io/badge/Email-parthsahay24@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthsahay24@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthsahay)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parthsahay)
+[![Email](https://img.shields.io/badge/Email-parthsahay2424@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthsahay2424@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthsahay24)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parthsahay24)
 
 <br>
 
@@ -263,7 +260,7 @@ I'm always interested in hearing about new projects and opportunities!
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=parthsahay&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=parthsahay24&color=blueviolet&style=for-the-badge)
 
 </div>
 
