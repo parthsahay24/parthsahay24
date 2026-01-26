@@ -108,7 +108,7 @@ const parth = {
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">♻️ LitterLift</h3>
       <div align="center">
         <a href="https://github.com/parthsahay24/litterlift" target="_blank">
@@ -122,7 +122,7 @@ const parth = {
         <p>🔹 AI chatbot integration for user support</p>
       </div>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">📚 Stutor</h3>
       <div align="center">
         <a href="https://github.com/parthsahay24/stutor" target="_blank">
@@ -136,9 +136,23 @@ const parth = {
         <p>🔹 Interactive learning modules</p>
       </div>
     </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🃏 BlackJack Game</h3>
+      <div align="center">
+        <a href="https://github.com/parthsahay24/BlackJack-Game" target="_blank">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+        </a>
+        <p><strong>Classic casino card game</strong></p>
+        <p>🔹 Interactive gameplay mechanics</p>
+        <p>🔹 Real-time score tracking</p>
+        <p>🔹 Dealer AI logic implementation</p>
+        <p>🔹 Responsive card animations</p>
+      </div>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">🔐 Triple DES Encryption</h3>
       <div align="center">
         <a href="https://github.com/parthsahay24/triple-des-encryption" target="_blank">
@@ -152,17 +166,32 @@ const parth = {
         <p>🔹 Secure data transmission protocols</p>
       </div>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💡 Horizon 2K25 Projects</h3>
+    <td width="33%" valign="top">
+      <h3 align="center">🚶 Passenger Counter</h3>
       <div align="center">
-        <a href="https://github.com/parthsahay24" target="_blank">
-          <img src="https://img.shields.io/badge/Innovation-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Innovation"/>
+        <a href="https://github.com/parthsahay24/Passenger-Counter" target="_blank">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
         </a>
-        <p><strong>🏆 Winner - Ideathon | 🥈 1st Runner-Up - Hackathon</strong></p>
-        <p>🔹 Innovative tech-driven solutions</p>
-        <p>🔹 Practical problem-solving approach</p>
-        <p>🔹 Awarded for creativity & impact</p>
-        <p>🔹 Full-stack development showcase</p>
+        <p><strong>Simple & efficient counting app</strong></p>
+        <p>🔹 Real-time passenger tracking</p>
+        <p>🔹 Increment & save functionality</p>
+        <p>🔹 Clean minimal UI design</p>
+        <p>🔹 Local data persistence</p>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">💻 Bash Scripting Suite</h3>
+      <div align="center">
+        <a href="https://github.com/parthsahay24/Bash-Scripting-Suite" target="_blank">
+          <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+        </a>
+        <p><strong>Collection of automation scripts</strong></p>
+        <p>🔹 System administration utilities</p>
+        <p>🔹 Task automation & scheduling</p>
+        <p>🔹 File management scripts</p>
+        <p>🔹 Shell scripting best practices</p>
       </div>
     </td>
   </tr>
@@ -254,7 +283,7 @@ I'm always interested in hearing about new projects and opportunities!
 
 ### 🌟 "First, solve the problem. Then, write the code." – John Johnson
 
-### 🎵 "Music is the language of code in harmony." – Parth Sahay
+### 🎵 "Music is a hobby, not gonna make it my job. It's a life force" – Parth Sahay
 
 <br>
 
