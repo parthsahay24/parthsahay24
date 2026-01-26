@@ -275,8 +275,8 @@ I'm always interested in hearing about new projects and opportunities!
 
 **~macOS ? Guitar.play() && Code.debug()☕
 
-[![Email](https://img.shields.io/badge/Email-parthsahay2424@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthsahay2424@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthsahay24)
+[![Email](https://img.shields.io/badge/Email-parthsahay2424@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthsahay24@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/parth-sahay-405908286)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parthsahay24)
 
 <br>
