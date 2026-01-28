@@ -137,19 +137,22 @@ const parth = {
       </div>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">🃏 BlackJack Game</h3>
-      <div align="center">
-        <a href="https://github.com/parthsahay24/BlackJack-Game" target="_blank">
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-        </a>
-        <p><strong>Classic casino card game</strong></p>
-        <p>🔹 Interactive gameplay mechanics</p>
-        <p>🔹 Real-time score tracking</p>
-        <p>🔹 Dealer AI logic implementation</p>
-        <p>🔹 Responsive card animations</p>
-      </div>
-    </td>
+  <h3 align="center">🧩 LeadsTracker Extension</h3>
+
+  <div align="center">
+    <a href="https://github.com/parthsahay24/LeadsTracker-extension" target="_blank">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Extension"/>
+    </a>
+    <p><strong>Lead management Chrome extension</strong></p>
+    <p>🔹 Save leads with one click</p>
+    <p>🔹 Persistent storage using localStorage</p>
+    <p>🔹 Clean, minimal extension UI</p>
+    <p>🔹 Boosts sales & productivity</p>
+  </div>
+</td>
+
+    
   </tr>
   <tr>
     <td width="33%" valign="top">
@@ -167,17 +170,17 @@ const parth = {
       </div>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">🚶 Passenger Counter</h3>
+      <h3 align="center">🃏 BlackJack Game</h3>
       <div align="center">
-        <a href="https://github.com/parthsahay24/Passenger-Counter" target="_blank">
+        <a href="https://github.com/parthsahay24/BlackJack-Game" target="_blank">
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
         </a>
-        <p><strong>Simple & efficient counting app</strong></p>
-        <p>🔹 Real-time passenger tracking</p>
-        <p>🔹 Increment & save functionality</p>
-        <p>🔹 Clean minimal UI design</p>
-        <p>🔹 Local data persistence</p>
+        <p><strong>Classic casino card game</strong></p>
+        <p>🔹 Interactive gameplay mechanics</p>
+        <p>🔹 Real-time score tracking</p>
+        <p>🔹 Dealer AI logic implementation</p>
+        <p>🔹 Responsive card animations</p>
       </div>
     </td>
     <td width="33%" valign="top">
