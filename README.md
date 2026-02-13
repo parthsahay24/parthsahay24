@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:12002b,50:2b1055,100:000428&height=260&section=header&text=Parth%20Sahay&fontSize=46&fontColor=bb86fc&animation=twinkling&desc=Code.%20Build.%20Win.%20Repeat.&descSize=20" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=360&lines=Full+Stack+Developer;Hackathon+Winner;Building+Real-World+Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&center=true&vCenter=true&width=460&lines=Full+Stack+Developer;Hackathon+Winner;Building+Real-World+Tech&color=C9A44C&background=00000000" />
 
 </p>
 
@@ -93,12 +93,25 @@ const parth = {
 
 <br>
 
-## 📊 GitHub Stats
+## 🌍 Contributors Section
+<br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthsahay24&theme=radical" width="100%" />
+</p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parthsahay24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthsahay24&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=parthsahay24&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ff6b00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=cfcfcf&dates=8a8a8a" width="60%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parthsahay24&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parthsahay24&theme=github_dark&utcOffset=5.5" width="49%" />
+</p>
+<br>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=parthsahay24&theme=gruvbox&no-frame=true&no-bg=true&margin-w=28&column=4&title=Commits,PullRequest,Repositories,Experience,MultiLanguage&v=20" />
+</p>
+<br>
+
 
 
 
@@ -205,7 +218,7 @@ const parth = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthsahay24&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthsahay24&bg_color=0d1117&color=ebdbb2&line=d4af37&point=f2e5bc&area=true&area_color=d4af37&hide_border=true&custom_title=Contribution%20Board" width="100%"/>
 </div>
 
 <br>
@@ -224,6 +237,7 @@ const parth = {
 ```
 
 </div>
+
 
 <br>
 
