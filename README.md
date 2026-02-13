@@ -11,7 +11,7 @@
 <div align="center">
 
 
-### 💻 Full-Stack Developer | 🚀 CSE 2022-26  | 🌟 Open Source Contributor
+### 💻 Full-Stack Developer | 🌟 Open Source Contributor | 🚀 CSE 2022-26
 
 <p>
   <a href="https://github.com/parthsahay24"><img src="https://img.shields.io/badge/GitHub-parthsahay24-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
