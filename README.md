@@ -93,28 +93,25 @@ const parth = {
 
 <br>
 
-## 🌍 Contributors Section
+## 🌍 Contributions Section
 <br>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthsahay24&theme=radical" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthsahay24&theme=default&bg_color=0d1117&title_color=D4AF37&text_color=E6EDF3&icon_color=D4AF37&border_color=30363d" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=parthsahay24&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ff6b00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=cfcfcf&dates=8a8a8a" width="60%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parthsahay24&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parthsahay24&theme=github_dark&utcOffset=5.5" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parthsahay24&theme=default&bg_color=0d1117&title_color=D4AF37&text_color=E6EDF3&icon_color=D4AF37&border_color=30363d" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parthsahay24&theme=default&utcOffset=5.5&bg_color=0d1117&title_color=D4AF37&text_color=E6EDF3&icon_color=D4AF37&border_color=30363d" width="49%" />
 </p>
+<br>
 <br>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=parthsahay24&theme=gruvbox&no-frame=true&no-bg=true&margin-w=28&column=4&title=Commits,PullRequest,Repositories,Experience,MultiLanguage&v=20" />
 </p>
 <br>
-
-
-
-
 <br>
 
 ## 🌟 Featured Projects
