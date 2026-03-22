@@ -118,6 +118,49 @@ const parth = {
 <table>
   <tr>
     <td width="33%" valign="top">
+  <h3 align="center">🔮 Next Word Predictor</h3>
+  <div align="center">
+    <a href="https://github.com/parthsahay24/Next-Word-Predictor" target="_blank">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+    </a>
+    <p><strong>Smart text prediction engine</strong></p>
+    <p>🔹 Real-time next-word suggestions</p>
+    <p>🔹 Deep Learning LSTM/RNN architecture</p>
+    <p>🔹 High-performance ONNX model inference</p>
+    <p>🔹 Integrated web-based prediction interface</p>
+  </div>
+</td>
+  <td width="33%" valign="top">
+  <h3 align="center">🏥 Healthcare Analytics</h3>
+  <div align="center">
+    <a href="https://github.com/parthsahay24/Healthcare-Analytics" target="_blank">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Machine%20Learning-F10000?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ML"/>
+    </a>
+    <p><strong>Healthcare prediction platform</strong></p>
+    <p>🔹 Advanced machine learning for diabetes risk assessment</p>
+    <p>🔹 Professional healthcare-themed UI with dark/light mode support</p>
+    <p>🔹 Integrated patient data management and analytics</p>
+  </div>
+</td>
+    <td width="33%" valign="top">
+  <h3 align="center">🔐 Encryption and Decryption</h3>
+  <div align="center">
+    <a href="https://github.com/parthsahay24/Message-Encryption-and-Decryption" target="_blank">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+    </a>
+    <p><strong>message encryption and decryption platform</strong></p>
+    <p>🔹 Robust implementation of Triple DES (3DES) symmetric-key cipher</p>
+    <p>🔹 Secure key derivation using SHA-256 for cryptographic strength</p>
+    <p>🔹 Scalable Flask backend providing a responsive REST API infrastructure</p>
+  </div>
+</td>
+
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <h3 align="center">♻️ LitterLift</h3>
       <div align="center">
         <a href="https://github.com/parthsahay24/litterlift" target="_blank">
@@ -162,50 +205,6 @@ const parth = {
 </td>
 
     
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">🔐 Triple DES Encryption</h3>
-      <div align="center">
-        <a href="https://github.com/parthsahay24/triple-des-encryption" target="_blank">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/Cryptography-FF6F00?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white" alt="Crypto"/>
-        </a>
-        <p><strong>Secure message encryption system</strong></p>
-        <p>🔹 Triple DES symmetric encryption</p>
-        <p>🔹 Multi-layered security implementation</p>
-        <p>🔹 Cryptographic key management</p>
-        <p>🔹 Secure data transmission protocols</p>
-      </div>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🃏 BlackJack Game</h3>
-      <div align="center">
-        <a href="https://github.com/parthsahay24/BlackJack-Game" target="_blank">
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-        </a>
-        <p><strong>Classic casino card game</strong></p>
-        <p>🔹 Interactive gameplay mechanics</p>
-        <p>🔹 Real-time score tracking</p>
-        <p>🔹 Dealer AI logic implementation</p>
-        <p>🔹 Responsive card animations</p>
-      </div>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">💻 Bash Scripting Suite</h3>
-      <div align="center">
-        <a href="https://github.com/parthsahay24/Bash-Scripting-Suite" target="_blank">
-          <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-        </a>
-        <p><strong>Collection of automation scripts</strong></p>
-        <p>🔹 System administration utilities</p>
-        <p>🔹 Task automation & scheduling</p>
-        <p>🔹 File management scripts</p>
-        <p>🔹 Shell scripting best practices</p>
-      </div>
-    </td>
   </tr>
 </table>
 
