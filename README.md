@@ -10,7 +10,7 @@
 <div align="center">
 
 
-### 💻 Full-Stack Developer | 🌟 Open Source Contributor | 🚀 CSE 2022-26
+### 💻 AI & Full-Stack Developer | 🌟 Open Source Contributor | 🚀 CSE 2022-26
 
 <p>
   <a href="https://github.com/parthsahay24"><img src="https://img.shields.io/badge/GitHub-parthsahay24-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -34,7 +34,7 @@
 const parth = {
     location: "Bhubaneswar, India 🇮🇳",
     university: "Siksha O Anusandhan University",
-    role: "Full-Stack Developer & CS Student",
+    role: "AI & Full-Stack Developer & CS Student",
     graduation: "2022 – 2026",
     code: ["C++", "Java", "Python", "JavaScript", "SQL", "HTML/CSS"],
     askMeAbout: ["web dev", "tech", "system design", "music"],
@@ -52,7 +52,7 @@ const parth = {
         tools: ["VS Code", "IntelliJ", "Eclipse", "Premiere Pro", "After Effects"]
     },
     libraries: ["pandas", "NumPy", "Matplotlib", "pycryptodome"],
-    currentFocus: "Building innovative web applications & exploring AI/ML",
+    currentFocus: "Building AI Agents",
     funFact: "I can type at 90 WPM while debugging! 🎹⌨️",
     hobbies: ["Guitar 🎸", "Piano 🎹", "Sports 🏏", "Music Production 🎵"]
 };
